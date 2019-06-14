@@ -1,0 +1,65 @@
+﻿  matrix.cpp
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(4): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(4): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(5): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(5): error C2660: "Matrix": Funktion akzeptiert keine 2 Argumente
+  c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(4): note: Siehe Deklaration von "Matrix"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(6): warning C4508: "Matrix": Funktion sollte einen Wert zurückgeben; Ergebnistyp "void" angenommen
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(8): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(8): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(10): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(10): error C2065: "elemente": nichtdeklarierter Bezeichner
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(14): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(14): error C2065: "elemente": nichtdeklarierter Bezeichner
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(17): warning C4508: "Matrix": Funktion sollte einen Wert zurückgeben; Ergebnistyp "void" angenommen
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(20): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(20): error C2065: "m": nichtdeklarierter Bezeichner
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(20): error C2563: Listen der formalen Parameter stimmen nicht überein
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(20): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(20): error C2365: "Matrix": Erneute Definition; vorherige Definition war "Funktion".
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(20): error C2448: "Matrix": Funktionsstil-Initialisierung scheint eine Funktionsdefinition zu sein
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(24): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(24): error C2523: "<Unbekannt>::~Matrix": Destruktor-Tag stimmt nicht überein.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(24): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(24): error C2084: Funktion "int Matrix(void)" hat bereits einen Funktionsrumpf
+  c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(4): note: Siehe vorherige Definition von "Matrix"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(28): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(28): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(28): error C2365: "Matrix": Erneute Definition; vorherige Definition war "Funktion".
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(28): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "="
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(29): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(29): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(33): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(38): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(43): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(48): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(53): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(58): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(58): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(58): error C2365: "Matrix": Erneute Definition; vorherige Definition war "Funktion".
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(58): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "transposition"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(59): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(59): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(63): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(63): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(63): error C2365: "Matrix": Erneute Definition; vorherige Definition war "Funktion".
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(63): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "+"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(64): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(64): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(68): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(68): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(68): error C2365: "Matrix": Erneute Definition; vorherige Definition war "Funktion".
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(68): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "*"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(69): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(69): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(73): error C2653: "Matrix": Keine Klasse oder Namespace
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(73): error C2065: "m": nichtdeklarierter Bezeichner
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(73): error C2563: Listen der formalen Parameter stimmen nicht überein
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(74): error C2448: "==": Funktionsstil-Initialisierung scheint eine Funktionsdefinition zu sein
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(78): error C2143: Syntaxfehler: Es fehlt ";" vor "&"
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(78): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(78): error C2065: "s": nichtdeklarierter Bezeichner
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(78): error C2065: "m": nichtdeklarierter Bezeichner
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(78): error C2563: Listen der formalen Parameter stimmen nicht überein
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(78): error C2473: "operator <<": Sieht wie eine Funktionsdefinition aus, weist jedoch keine Parameterliste auf.
+c:\users\moritz\source\repos\pvl\pvl\matrix.cpp(79): error C2448: "<<": Funktionsstil-Initialisierung scheint eine Funktionsdefinition zu sein
